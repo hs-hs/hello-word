@@ -9,3 +9,4 @@ for i in grood_list:
 print("测试123")
 print("text1")
 print("text2")
+print("123木头人")
