@@ -6,5 +6,6 @@ print(a)
 grood_list = ["Andy","Tom"]
 for i in grood_list:
     print(i+",Welcome to School!")
-print("123测试")
+print("测试123")
 print("text1")
+print("text2")
