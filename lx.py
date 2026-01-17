@@ -6,8 +6,10 @@ print(a)
 grood_list = ["Andy","Tom"]
 for i in grood_list:
     print(i+",Welcome to School!")
-print("测试123")
+print("123")
 print("text1")
 print("text2")
 print("123木头人")
-print("哈哈哈哈哈")
+print("哈哈哈哈")
+print("hello world")
+print("第一次git流程测试")
